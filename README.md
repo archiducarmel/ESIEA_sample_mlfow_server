@@ -54,6 +54,8 @@ mkdir mlruns artifacts
 **Qu'est-ce que PythonAnywhere ?**
 PythonAnywhere est une plateforme cloud qui offre un hébergement Python gratuit. Parfait pour héberger un serveur MLflow sans coût et sans configuration serveur complexe.
 
+![](https://2017.pyconuk.org/static/img/sponsor-logos/python-anywhere.png)
+
 **Prérequis :**
 - 10 minutes de votre temps
 - Une adresse email (pour créer le compte PythonAnywhere)
@@ -79,6 +81,9 @@ PythonAnywhere est une plateforme cloud qui offre un hébergement Python gratuit
 ### Étape 2 : Installer MLflow
 
 #### 2.1 Ouvrir une console
+
+![](https://ctf-cci-com.imgix.net/305kZ467urvWPkz3rUuZz8/aa401551ee7c33d4d0a4bcdf22b4d9a7/2024-01-20-application-console-pythonanywhere.png?ixlib=rb-3.2.1&w=2000&auto=format&fit=max&q=60)
+
 1. Cliquez sur l'onglet **"Consoles"** en haut
 2. Sous "Start a new console", cliquez sur **"Bash"**
 3. Une nouvelle console s'ouvre - c'est votre terminal Linux !
@@ -173,6 +178,9 @@ Sauvegardez avec `Ctrl + X`, puis `Y`, puis `Entrée`.
 ### Étape 5 : Créer l'application web
 
 #### 5.1 Aller dans l'onglet Web
+
+![](https://django.pythonassets.com/assets/images/pythonanywhere-add-new-web-app-6bc35e0f4682fa57911ed19cf34f41cb.png)
+
 1. Cliquez sur l'onglet **"Web"** en haut du dashboard
 2. Cliquez sur **"Add a new web app"**
 
